@@ -1,6 +1,7 @@
-# Proyecto del equipo
+#Proyecto equipo
 Nombre del proyecto: Bamba
-## Miembros
-- Bruno
-- Juanma
-- Laura
+
+##Miembros
+-Bruno
+-Laura
+-Juanma
