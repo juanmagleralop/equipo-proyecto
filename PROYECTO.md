@@ -1,6 +1,6 @@
 # Proyecto del equipo
-Nombre del proyecto: Raquel
+Nombre del proyecto: Bamba
 ## Miembros
-Bruno Vegas
-Laura Reyes
-- BRUNO
+- Bruno
+- Juanma
+- Laura
