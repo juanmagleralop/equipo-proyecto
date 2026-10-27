@@ -1,6 +1,6 @@
 # Proyecto del equipo
-Nombre del proyecto: Camaron
+Nombre del proyecto: Bamba
 ## Miembros
-Bruno Vegas
-Laura Reyes
-JuanMa
+- Bruno
+- Juanma
+- Laura
